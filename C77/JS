@@ -1,0 +1,15 @@
+console.log("My first console project");
+var first_name ="Tiger"
+var last_name ="Shirof"
+var full_name =first_name.concat(last_name);
+console.log(full_name);
+var a = 90;
+var b = 80;
+var add = a + b ;
+console.log(add);
+var subtract = a - b ;
+console.log(subtract);
+var multiply = a * b ;
+console.log(multiply);
+var division = a / b;
+console.log(division);
